@@ -13,7 +13,7 @@ The data used for the project was the [BNSSG System Wide Dataset](https://bnssgh
 This research used bupaR - an open-source, integrated suite of R-packages for the handling and analysis of business process data - along with [PM4Py](https://pm4py.fit.fraunhofer.de/) in Python and SQL.
 
 
-![image](https://user-images.githubusercontent.com/68733783/120665428-aac92180-c483-11eb-9737-a1a1cd0e5d12.png)
+![image](https://user-images.githubusercontent.com/68733783/120673184-dbf92000-c48a-11eb-9db9-e1483981ab65.png)
 
 
 A summary of available discovery algorithms in R are in the below table.
